@@ -8,7 +8,10 @@ Technology used:
 2.Microcontroller (e.g., Arduino, Raspberry Pi) – To process sensor data and control outputs.
 3.Vibration Motor / Buzzer – To alert the user about nearby obstacles.
 4.Battery / Power Supply – To power the entire system.
-steps: Code the Arduino with the given code.
-Video explanation Link:https://drive.google.com/file/d/1sfBD5uC7wy1rgwqD2P4riXojPFHZC617/view?usp=drive_link
-Project report pdf link:https://drive.google.com/file/d/1uUjx5p4RABg2pdfIGHOkpPmXmyCWviXb/view?usp=drive_link
-Arduino Code link:https://drive.google.com/file/d/1w5Op0jZpDyDob8JIirqb3-j-os02XlJ3/view?usp=drive_link
+steps: Code the Arduino with the given code.   
+
+   Video explanation Link:https://drive.google.com/file/d/1sfBD5uC7wy1rgwqD2P4riXojPFHZC617/view?usp=drive_link 
+   
+   Project report pdf link:https://drive.google.com/file/d/1uUjx5p4RABg2pdfIGHOkpPmXmyCWviXb/view?usp=drive_link
+   
+  Arduino Code link:https://drive.google.com/file/d/1w5Op0jZpDyDob8JIirqb3-j-os02XlJ3/view?usp=drive_link
