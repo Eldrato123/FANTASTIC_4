@@ -1,4 +1,4 @@
-# FANTASTIC_4
+KUNAl Krishna cse ai|ml A
 SMART CANE
 Project Title: Smart Cane 
 Team Members: Rishab Jha, Kunal krishna, Ananya, Dipali Roy
